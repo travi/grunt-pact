@@ -25,7 +25,7 @@
     "grunt": ">=0.4.0"
   },
   "dependencies": {
-    "@pact-foundation/pact-node": "4.4.0",
+    "@pact-foundation/pact-node": "4.5.4",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
@@ -33,7 +33,7 @@
     "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-nodeunit": "^1.0.0",
-    "jscs": "^2.11.0",
+    "jscs": "^3.0.7",
     "nodemon": "^1.9.1",
     "q": "^1.4.1",
     "rimraf": "^2.5.2"
